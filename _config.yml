@@ -1,0 +1,9 @@
+# basics
+title: Jiayue Fan(Karen)
+email: fankaren619@gmail.com
+description: I’m interested in Electrical and electronic Engineering and I would love to pursue this in my future studies.
+I post contents about the projects I did, mostly Ardunio projects and I hope you have fun reading them!
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
