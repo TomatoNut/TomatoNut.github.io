@@ -5,4 +5,4 @@ description: I’m interested in Electrical and electronic Engineering and I wou
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
